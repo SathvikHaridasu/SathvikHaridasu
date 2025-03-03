@@ -12,9 +12,9 @@
 
 
 ## 💼 &nbsp;Past projects
+- <a href="https://naloxnow.vercel.app">NaloxNow</a> - Real-time overdose response app designed to save lives by providing instant access to naloxone kits and emergency assistance. 
 - <a href="https://github.com/SathvikHaridasu/Facial-Recognition-Program">HarmoniQ</a> - Top 5 Winning Project for NeoDev League
 - <a href="https://sathvikharidasu.github.io">Personal Website</a> - Showcasing my projects, skills, and journey in tech and entrepreneurship. 
-
 
 ## ⚙️ &nbsp;Languages, frameworks, and tools
 
