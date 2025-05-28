@@ -7,11 +7,11 @@
 
 ## 🔭 Current projects
 - <a href="https://sprouthacks.ca">SproutHacks</a> - Hacker dashboard for SproutHacks, Canada's largest high-school hackathon
-- <a href="https://github.com/ebanez8/Delta-BayMax">Baymax Bot</a> - AI-powered health bot for injury detection and first-aid advice.
-
+- <a href="www.marketharvest.ca">MarketHarvest</a> - A Canadaian marketplace enable millions of Canadians to buy/sell plants and crops, locally AND sustainably.
 
 
 ## 💼 &nbsp;Past projects
+- <a href="https://github.com/SathvikHaridasu/SUSTAIN-CITY">SustainCity</a> - AI-driven urban simulator that transforms sustainable city planning into an interactive experience
 - <a href="https://naloxnow.vercel.app">NaloxNow</a> - Real-time overdose response app designed to save lives by providing instant access to naloxone kits and emergency assistance. 
 - <a href="https://github.com/SathvikHaridasu/Facial-Recognition-Program">HarmoniQ</a> - Top 5 Winning Project for NeoDev League
 - <a href="https://sathvikharidasu.github.io">Personal Website</a> - Showcasing my projects, skills, and journey in tech and entrepreneurship. 
