@@ -79,8 +79,7 @@ Life-saving overdose response platform providing real-time naloxone kit access a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SathvikHaridasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHaridasu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHaridasu&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
