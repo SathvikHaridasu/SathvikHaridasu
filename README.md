@@ -25,14 +25,17 @@ Connecting millions of Canadians through local, sustainable plant and crop tradi
 ### 🌐 [Personal Portfolio](https://sathvikharidasu.vercel.app)
 A showcase of my journey through tech and entrepreneurship, featuring interactive demos and case studies
 
-### 🏙️ [SustainCity](https://github.com/SathvikHaridasu/SUSTAIN-CITY)
-AI-powered urban planning simulator that gamifies sustainable city development
-
 ### 🚨 [NaloxNow](https://naloxnow.vercel.app)
-Life-saving overdose response platform providing real-time naloxone kit access and emergency coordination
+**🏆 Best High School Hack - Hack Canada** | Life-saving overdose response platform providing real-time naloxone kit access and emergency coordination
+
+### 🥾 [LocalLink](https://local-link-fxnd.vercel.app)
+**🥉 Top 3 - EurekaHacks** | Connect with outdoor enthusiasts in your area for hiking, biking, and wilderness exploration adventures
 
 ### 🎵 [HarmoniQ](https://github.com/SathvikHaridasu/Facial-Recognition-Program)
 **🏅 Top 5 Winner - NeoDev League** | Advanced facial recognition system with real-world applications
+
+### 🏙️ [SustainCity](https://github.com/SathvikHaridasu/SUSTAIN-CITY)
+AI-powered urban planning simulator that gamifies sustainable city development
 
 ---
 
