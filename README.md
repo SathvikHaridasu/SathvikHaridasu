@@ -97,6 +97,9 @@ AI-powered urban planning simulator that gamifies sustainable city development
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SathvikHaridasu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <h3>👀 Profile Visitors</h3>
+  <img src="https://komarev.com/ghpvc/?username=SathvikHaridasu&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Profile views" />
 </div>
