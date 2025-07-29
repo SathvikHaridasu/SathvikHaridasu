@@ -1,52 +1,100 @@
-# Github Profile
- 
-## Hi there, I'm Sathvik Haridasu 👋 
-📚 Student &nbsp; &nbsp; 💻 Frontend & Backend Developer &nbsp; &nbsp;🛠️ Hackathon Organizer
+# 👋 Hey, I'm Sathvik Haridasu
 
+<div align="center">
+  
+**🎓 Student** • **💻 Full-Stack Developer** • **🚀 Hackathon Organizer**
 
+*Building innovative solutions at the intersection of technology and social impact*
 
-## 🔭 Current projects
-- <a href="https://sprouthacks.ca">SproutHacks</a> - Hacker dashboard for SproutHacks, Canada's largest high-school hackathon
-- <a href="www.marketharvest.ca">MarketHarvest</a> - A Canadaian marketplace enable millions of Canadians to buy/sell plants and crops, locally AND sustainably.
+</div>
 
+---
 
-## 💼 &nbsp;Past projects
-- <a href="https://sathvikharidasu.vercel.app">Personal Website</a> - Showcasing my projects, skills, and journey in tech and entrepreneurship. 
-- <a href="https://github.com/SathvikHaridasu/SUSTAIN-CITY">SustainCity</a> - AI-driven urban simulator that transforms sustainable city planning into an interactive experience
-- <a href="https://naloxnow.vercel.app">NaloxNow</a> - Real-time overdose response app designed to save lives by providing instant access to naloxone kits and emergency assistance. 
-- <a href="https://github.com/SathvikHaridasu/Facial-Recognition-Program">HarmoniQ</a> - Top 5 Winning Project for NeoDev League
-## ⚙️ &nbsp;Languages, frameworks, and tools
+## 🌱 What I'm Building Now
 
-### Frontend
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)&nbsp;
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)&nbsp;
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)&nbsp;
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)&nbsp;
-![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
-![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)&nbsp;
-![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat-square)&nbsp;
+**[SproutHacks](https://sprouthacks.ca)** • *Hacker Dashboard*  
+Leading the tech behind Canada's largest high school hackathon, empowering the next generation of innovators
 
+**[MarketHarvest](www.marketharvest.ca)** • *Sustainable Marketplace*  
+Connecting millions of Canadians through local, sustainable plant and crop trading
 
-### Backend
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)&nbsp;
-![Express Badge](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=flat-square)&nbsp;
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)&nbsp;
-![Flask Badge](https://img.shields.io/badge/Flask_(learning)-000?logo=flask&color=fff&logoColor=000&style=flat-square)
+---
 
+## 🏆 Featured Projects
 
-### Other Tools
-![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=flat-square)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)&nbsp;
-![PWA Badge](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=fff&style=flat-square)&nbsp;
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)&nbsp;
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)&nbsp;
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)&nbsp;
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+### 🌐 [Personal Portfolio](https://sathvikharidasu.vercel.app)
+A showcase of my journey through tech and entrepreneurship, featuring interactive demos and case studies
+
+### 🏙️ [SustainCity](https://github.com/SathvikHaridasu/SUSTAIN-CITY)
+AI-powered urban planning simulator that gamifies sustainable city development
+
+### 🚨 [NaloxNow](https://naloxnow.vercel.app)
+Life-saving overdose response platform providing real-time naloxone kit access and emergency coordination
+
+### 🎵 [HarmoniQ](https://github.com/SathvikHaridasu/Facial-Recognition-Program)
+**🏅 Top 5 Winner - NeoDev League** | Advanced facial recognition system with real-world applications
+
+---
+
+## ⚡ Tech Arsenal
+
+<details>
+<summary><strong>🎨 Frontend Development</strong></summary>
 <br>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<!--END_SECTION:waka-->
-## 📞 &nbsp;Links and Contacts
-[![Github Badge](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github)](https://github.com/SathvikHaridasu)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sathvik-haridasu/)&nbsp;
+</details>
+
+<details>
+<summary><strong>⚙️ Backend & Infrastructure</strong></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🛠️ Tools & Workflow</strong></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SathvikHaridasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHaridasu&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SathvikHaridasu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-haridasu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sathvikharidasu.vercel.app)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SathvikHaridasu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
