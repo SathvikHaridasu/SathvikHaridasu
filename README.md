@@ -15,7 +15,7 @@
 **[SproutHacks](https://sprouthacks.ca)** • *Hacker Dashboard*  
 Leading the tech behind Canada's largest high school hackathon, empowering the next generation of innovators
 
-**[MarketHarvest](www.marketharvest.ca)** • *Sustainable Marketplace*  
+**[MarketHarvest](marketharvest.ca)** • *Sustainable Marketplace*  
 Connecting millions of Canadians through local, sustainable plant and crop trading
 
 ---
